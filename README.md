@@ -1,6 +1,6 @@
 ## Lose yourself
 
-Lose Yourself est une application pour explorer des lieux originaux et peu connus. (sur base de l’atlas obscure). L’objectif de l’application est de suggérer ces lieux à voir en fonction d’un trajet.
+Lose Yourself est une application pour explorer des lieux originaux et peu connus. (sur base de l’atlas obscura). L’objectif de l’application est de suggérer ces lieux à voir en fonction d’un trajet.
 
 
 ## Personas
