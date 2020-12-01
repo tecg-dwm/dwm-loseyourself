@@ -35,10 +35,12 @@ L’utilisateur doit pouvoir :
 - Se créer un compte
 - Modifier ses informations de base (nom/prénom/avatar)
 - Sauvegarder différents voyages
-    - Favoris
+    - Favoris (public et privé)
     - Liste nommée (ex: Irlande en famille printemps 2021, Lune de miel 2023, …)
 - Partager un voyage 
 - Suivre des amis sur l’application
+    - Une page profil
+    
 
 
 ## Liens utiles
